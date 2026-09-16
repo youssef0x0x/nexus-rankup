@@ -14,10 +14,10 @@ export const DailyMissionCard: React.FC<{ quest: Quest }> = ({ quest }) => {
         <div>
           <button
             onClick={() => completeQuest(quest.id)}
-            disabled={quest.completed}
-            className="px-3 py-1 bg-cyan-500 text-black rounded-md font-semibold hover:scale-105 transition-transform disabled:opacity-50"
+            disabled={quest.failed}
+            className="quest-glow-button px-3 py-1 rounded-md font-semibold disabled:opacity-50"
           >
-            {quest.completed ? 'Done' : 'Complete'}
+            {quest.failed ? 'Failed' : quest.completed ? 'Repeat' : 'Complete'}
           </button>
         </div>
       </div>

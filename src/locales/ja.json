@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "ホーム", "quests": "クエスト", "focus": "集中", "rewards": "報酬" },
+  "header": { "eyebrow": "NEXUS / 生産性RPG", "online": "システムオンライン", "language": "言語", "selectLanguage": "言語を選択" },
+  "intro": { "eyebrow": "NEXUS OS / オンライン", "title": "ようこそ", "brand": "NEXUS RANKUP", "subtitle": "次のクエストを制覇する準備はできましたか？", "copy": "集中を経験値に、継続を力に変えよう。次のレベルは一つの行動から始まります。", "enter": "NEXUSに入る", "guide": "遊び方 / 基本を学ぶ", "hint": "Enterで開始" },
+  "views": { "dashboard": "司令センター", "quests": "クエストボード", "timer": "集中チャンバー", "rewards": "報酬ショップ" },
+  "dashboard": { "daily": "デイリー作戦", "missions": "今日のミッション", "viewAll": "すべて見る", "nextQuest": "次のクエスト", "noQuest": "予定されたクエストはありません" },
+  "player": { "profile": "プレイヤープロフィール", "level": "レベル", "total": "合計", "primaryTarget": "主な目標", "nextTier": "次のランク", "at": "必要XP", "needed": "不足", "ssAchieved": "SSランク達成", "streak": "日連続", "activeDays": "活動日数", "achievements": "実績", "core": "コア属性", "upgrade": "ビルドを強化", "spend": "クレジットで強化", "credits": "クレジット", "strength": "筋力", "intelligence": "知力", "agility": "敏捷", "vitality": "生命力", "discipline": "規律" },
+  "quests": { "active": "アクティブミッション", "found": "件のクエスト", "all": "すべて", "activeFilter": "進行中", "completed": "完了", "search": "クエスト検索", "ai": "AIクエスト", "new": "新規クエスト", "none": "一致するクエストはありません。", "complete": "完了する", "done": "完了" },
+  "timer": { "protocol": "集中プロトコル", "title": "ポモドーロセッション", "focusTime": "集中時間", "start": "集中開始", "pause": "一時停止", "complete": "セッション完了", "focusIntel": "集中データ", "smallSessions": "小さなセッション、大きな前進。", "description": "25分の集中で規律とクレジットを獲得します。", "fullSession": "セッション完了で規律+1。" },
+  "settings": { "profile": "プロフィールアカウント", "language": "言語" },
+  "audio": { "sound": "サウンド", "muted": "ミュート", "mute": "ミュート", "unmute": "ミュート解除", "systemNotification": "[ システム通知 ]", "questComplete": "クエスト完了。報酬が追加されました。", "rankUp": "ランクアップ: {{rank}}。", "ssRank": "SSランク達成。", "questFailed": "[ システム警告: クエスト失敗 - ペナルティ適用 ]" },
+  "tutorial": { "eyebrow": "NEXUSガイド", "open": "ガイドを開く", "skip": "チュートリアルをスキップ", "back": "戻る", "next": "次へ", "finish": "NEXUSに入る", "stats": { "title": "プレイヤー能力とランク", "description": "レベルとランクを確認しましょう。ミッションを完了してXPを獲得し、レベルアップ！" }, "quests": { "title": "デイリークエスト", "description": "タスクを選んで完了し、XPとゴールドを獲得しましょう。小さな勝利が強い連続記録を作ります！" }, "timer": { "title": "ポモドーロ集中タイマー", "description": "25分集中しましょう。完了するとINTとSTRが上がり、報酬を獲得できます。" }, "rewards": { "title": "報酬ショップ", "description": "ゴールドで称号、光るコスメ、楽しい現実の報酬を購入しましょう。" } },
+  "ranks": { "rank": "ランク" }
+}

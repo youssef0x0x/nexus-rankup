@@ -1,0 +1,14 @@
+{
+  "nav": { "home": "홈", "quests": "퀘스트", "focus": "집중", "rewards": "보상" },
+  "header": { "eyebrow": "NEXUS / 생산성 RPG", "online": "시스템 온라인", "language": "언어", "selectLanguage": "언어 선택" },
+  "intro": { "eyebrow": "NEXUS 운영체제 / 온라인", "title": "환영합니다", "brand": "NEXUS RANKUP", "subtitle": "다음 퀘스트를 정복할 준비가 되었나요?", "copy": "집중을 경험치로, 꾸준함을 힘으로 바꾸세요. 다음 레벨은 하나의 행동에서 시작됩니다.", "enter": "NEXUS 입장", "guide": "플레이 방법 / 기본 배우기", "hint": "Enter를 눌러 시작" },
+  "views": { "dashboard": "지휘 센터", "quests": "퀘스트 보드", "timer": "집중실", "rewards": "보상 상점" },
+  "dashboard": { "daily": "오늘의 작전", "missions": "오늘의 미션", "viewAll": "모두 보기", "nextQuest": "다음 퀘스트", "noQuest": "예정된 퀘스트가 없습니다" },
+  "player": { "profile": "플레이어 프로필", "level": "레벨", "total": "총", "primaryTarget": "주요 목표", "nextTier": "다음 등급", "at": "필요 XP", "needed": "필요", "ssAchieved": "SS 등급 달성", "streak": "일 연속", "activeDays": "활동 일수", "achievements": "업적", "core": "핵심 능력치", "upgrade": "빌드 강화", "spend": "크레딧으로 강화", "credits": "크레딧", "strength": "힘", "intelligence": "지능", "agility": "민첩", "vitality": "활력", "discipline": "규율" },
+  "quests": { "active": "활성 미션", "found": "개 퀘스트", "all": "전체", "activeFilter": "진행 중", "completed": "완료", "search": "퀘스트 검색", "ai": "AI 퀘스트", "new": "새 퀘스트", "none": "일치하는 퀘스트가 없습니다.", "complete": "완료하기", "done": "완료됨" },
+  "timer": { "protocol": "집중 프로토콜", "title": "포모도로 세션", "focusTime": "집중 시간", "start": "집중 시작", "pause": "일시정지", "complete": "세션 완료", "focusIntel": "집중 정보", "smallSessions": "작은 세션, 큰 추진력.", "description": "25분 집중을 완료하고 규율과 크레딧을 획득하세요.", "fullSession": "세션을 완료하면 규율 +1." },
+  "settings": { "profile": "프로필 계정", "language": "언어" },
+  "audio": { "sound": "사운드", "muted": "음소거", "mute": "음소거", "unmute": "음소거 해제", "systemNotification": "[ 시스템 알림 ]", "questComplete": "퀘스트 완료. 보상이 추가되었습니다.", "rankUp": "등급 상승: {{rank}}.", "ssRank": "SS 등급 달성.", "questFailed": "[ 시스템 경고: 퀘스트 실패 - 패널티 적용 ]" },
+  "tutorial": { "eyebrow": "NEXUS 가이드", "open": "가이드 열기", "skip": "튜토리얼 건너뛰기", "back": "뒤로", "next": "다음", "finish": "NEXUS 입장", "stats": { "title": "플레이어 능력치와 등급", "description": "레벨과 등급을 확인하세요. 미션을 완료하고 XP를 얻어 레벨업하세요!" }, "quests": { "title": "일일 퀘스트", "description": "할 일을 선택하고 완료해 XP와 골드를 받으세요. 작은 승리가 강한 연속 기록을 만듭니다!" }, "timer": { "title": "포모도로 집중 타이머", "description": "25분 집중을 완료하면 INT와 STR이 오르고 보상을 얻습니다." }, "rewards": { "title": "보상 상점", "description": "골드로 멋진 칭호, 빛나는 장식, 재미있는 현실 보상을 구매하세요." } },
+  "ranks": { "rank": "등급" }
+}
